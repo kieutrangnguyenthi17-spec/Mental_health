@@ -1,0 +1,13 @@
+﻿Burnout Level,Model,Recall
+Low,Logistic Regression,0.8184460375896144
+Moderate,Logistic Regression,0.5956960578937345
+High,Logistic Regression,0.5889491350374387
+Severe,Logistic Regression,0.8225721784776903
+Low,Random Forest,0.7977136213912033
+Moderate,Random Forest,0.684821938678347
+High,Random Forest,0.4273173250710044
+Severe,Random Forest,0.8488188976377953
+Low,CatBoost,0.8114706452237939
+Moderate,CatBoost,0.6570177109122072
+High,CatBoost,0.47947327652982186
+Severe,CatBoost,0.8498687664041995
